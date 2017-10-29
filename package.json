@@ -19,8 +19,10 @@
   "dependencies": {
     "geolib": "^2.0.24",
     "lodash": "^4.17.4",
+    "mustache": "^2.3.0",
     "request": "^2.83.0",
-    "request-promise-native": "^1.0.5"
+    "request-promise-native": "^1.0.5",
+    "strftime": "^0.10.0"
   },
   "devDependencies": {
     "csv": "^2.0.0",
