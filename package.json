@@ -1,0 +1,29 @@
+{
+  "name": "planespotting",
+  "version": "1.0.0",
+  "description": "our raspberry pi LOVES to watch for planes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oldfriends/planespotting.git"
+  },
+  "author": "jae kaplan <me@jkap.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oldfriends/planespotting/issues"
+  },
+  "homepage": "https://github.com/oldfriends/planespotting#readme",
+  "dependencies": {
+    "geolib": "^2.0.24",
+    "lodash": "^4.17.4",
+    "request": "^2.83.0",
+    "request-promise-native": "^1.0.5"
+  },
+  "devDependencies": {
+    "csv": "^2.0.0",
+    "streaming-json-stringify": "^3.1.0"
+  }
+}
