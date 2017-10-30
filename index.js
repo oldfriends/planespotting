@@ -14,7 +14,7 @@ const CENTER = {
     longitude: -122.2580
 };
 
-const RADIUS = 10000;
+const RADIUS = 5000;
 
 const getFlights = () => {
     return rp.get("http://10.0.0.26:8080/data/aircraft.json", {
