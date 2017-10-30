@@ -1,7 +1,7 @@
 ---
 title: "{{title}}"
 date: "{{{date}}}"
-author: piaware
+author: Raspberry Pi
 layout: post
 ---
 
