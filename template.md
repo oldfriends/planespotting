@@ -5,4 +5,4 @@ author: Raspberry Pi
 layout: post
 ---
 
-I saw a {{type}}!
+I saw a [{{type}}!](https://flightaware.com/live/modes/{{hex}}/redirect)

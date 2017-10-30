@@ -70,7 +70,8 @@ const logFlight = (flight) => {
         const output = mustache.render(template, {
             title,
             date,
-            type
+            type,
+            hex
         });
         fs.writeFileSync(path.resolve("out", filename), output);
     }
